@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "yVg75dAdczm4oFDI6uYZEXyoPx7zZQ85pX3QvH9l7FRh7sTEkBIVsAVBMPb1Brxys926KMYHz6C5TALNi53ySh3A8wUW6yZp1eLLjiFzM0ZZTmsn9a0xMigfzB_EHiJANJj7DNfkxa1y82imv9GlmmEwQIPWSazv20XGcRTWOeQuA7DaPORAHrSyJ0l3QpaEx93-PNMqUyIdgwGdra7NXpnEZchJKLm89gnaHu1kGYHAeWCNAW-r4kj_6Egj73q1hulKQwVZgK5hSdR524XYdOnRsUxElhrY7XxqxMxLqnnyXykXkVo4YtyT3jaMGeUhD6XxJMlYKhB-hPPK7YFmgw",
+      "e": "AQAB",
+      "kid": "basicpatientapptest-nonprod-20260610",
+      "use": "sig",
+      "alg": "RS384"
+    }
+  ]
+}
