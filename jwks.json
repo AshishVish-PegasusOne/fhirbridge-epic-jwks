@@ -2,9 +2,9 @@
   "keys": [
     {
       "kty": "RSA",
-      "n": "yVg75dAdczm4oFDI6uYZEXyoPx7zZQ85pX3QvH9l7FRh7sTEkBIVsAVBMPb1Brxys926KMYHz6C5TALNi53ySh3A8wUW6yZp1eLLjiFzM0ZZTmsn9a0xMigfzB_EHiJANJj7DNfkxa1y82imv9GlmmEwQIPWSazv20XGcRTWOeQuA7DaPORAHrSyJ0l3QpaEx93-PNMqUyIdgwGdra7NXpnEZchJKLm89gnaHu1kGYHAeWCNAW-r4kj_6Egj73q1hulKQwVZgK5hSdR524XYdOnRsUxElhrY7XxqxMxLqnnyXykXkVo4YtyT3jaMGeUhD6XxJMlYKhB-hPPK7YFmgw",
+      "n": "sCo3tNlp0T3SANh6QJIfbIQ3RXA8J7dSM0tC4jN_5VNSr4xm_i35CjSwv1XbLPuV4bYnl5dufEh3h1_mFP-kYwhBiqY8fSuSg4Tn2R3RWerblNqn1DLx2nt8GiXGuK3HIOKhDGkS1KaxNvmC1QuH-HQ4OKH08-oWtjmbJxWeT_aE-3IFs-jV7pmuJoBg3iQOErsq5f-pCmUUD0Dnqh5ucZ91XovMW2JsUBYP4Dfj-QpiZxBLjIrMwYF5GIeCbilVJUkO3LrTjBLtNPARQGu2xYrGzkWgbiFm7JTSk_vDRNwwHc1CSWrB7O2oqwoRX2Zh2WfKTfNP2IC2v3Me2YZjeQ",
       "e": "AQAB",
-      "kid": "basicpatientapptest-nonprod-20260610",
+      "kid": "fhirbridge-nonprod-20260706",
       "use": "sig",
       "alg": "RS384"
     }
